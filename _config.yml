@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: ĭĭ Enterprises
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.69693
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6547177229076624
-  brandStrength: 0.3696023277007043
-  rhythmicContrast: 0.6506727712694556
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.3696023277007043
   lightness: 0.908295176923275
+  saturation: 0.6547177229076624
+  rhythmicContrast: 0.6506727712694556
 purpose: []
-favicon: null
-name: ĭĭ Enterprises
-typography_spectrum: 0.69693
